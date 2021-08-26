@@ -1,0 +1,8 @@
+.home {
+}
+.home__section {
+  display: flex;
+  margin-top: 20px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
